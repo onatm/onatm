@@ -1,9 +1,11 @@
-# Hi, I'm Onat Mercan 👋
+## Hi, I’m Onat 👋
 
-**Software Engineer & Open Source Enthusiast** – I'm a Senior Platform Developer at **Stack Overflow** based in Cambridge, UK with a background in backend development and technical leadership.
-Previously, I worked as a Rust Backend Engineer at **TrueLayer** and a Technical Lead at **Redgate Software**, and I sharpened my skills working on large-scale projects at **Hepsiburada**.
-I hold advanced degrees in Computational Science & Engineering and Geomatics Engineering from Istanbul Technical University.
+I’m a senior software engineer at Stack Overflow, based in Cambridge, UK. I started coding when I was eight and mostly taught myself. I studied geomatics engineering at Istanbul Technical University and stayed for a master’s in computational science and engineering. Before joining Stack Overflow in 2022, I worked at Hepsiburada in Turkey, was a tech lead at Redgate, and wrote backend services in Rust at TrueLayer. I started on the platform team at Stack Overflow and these days I work on a product team.
 
-- 💻 **Tech Focus:** I love building cloud-native solutions and I'm not tied to any single tech stack. I'm a huge Rustacean 🦀 but also develop in Go, C#, JavaScript, and TypeScript. My work often involves Kubernetes and DevOps tooling. What matters to me is solving problems with the best tools available.
-- 🌟 **Interests:** I'm passionate about open-source software and improving Developer Experience (DX). I enjoy researching new technologies and sharing knowledge.
-- 🚀 **Currently:** Working on platform engineering at Stack Overflow since 2022, helping build the infrastructure that serves millions of developers. Outside work you’ll find me raising my wonderful daughter, crafting small libraries, hacking on side projects, and giving back to open source.
+Two open source projects I’m particularly proud to have contributed to are [DotNetty](https://github.com/Azure/DotNetty), a networking framework for .NET, and [rustup](https://github.com/rust-lang/rustup), the Rust toolchain manager. My own projects range from small tools I use at work, like [kx](https://github.com/onatm/kx) for switching Kubernetes contexts, to things I built because I liked the idea and wanted to try it myself. [Plum](https://github.com/distrentic/plum) is a Bloom filter I wrote in Rust, and [Homescale](https://github.com/homescale-dev/homescale) is my excuse to revisit the database cloning work I did years ago, this time with Kubernetes and Ceph.
+
+Lately I’ve been spending much of my spare time on [Snapbyte](https://snapbyte.dev), which puts together a daily developer news digest based on what you like to read. Snapbyte uses a language model to tag articles, and I got curious about how small a model could be and still do that job well. That question led me to experiment with Gemma and train [Gev](https://github.com/onatm/gev).
+
+I write about some of these projects on [my blog](https://onatm.dev), including how Plum works and how I set up the storage for Homescale. You’ll also find posts about running my own Kubernetes cluster on Hetzner, writing Hack assembly, and what went wrong when I tried to boot a bare-metal kernel on Android.
+
+Outside of work I read sci-fi, play video games, and play Dungeons & Dragons with my daughter.
